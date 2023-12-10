@@ -6,3 +6,5 @@
 *.aux
 *.toc
 *.pdf
+/media
+/__pycache__
